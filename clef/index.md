@@ -28,3 +28,7 @@ Although few studies have been carried out in the field of automatic text simpli
 Scenarios
 
 The goal is to create a simplified summary of multiple scientific documents based on a given query which provides the user with an instant simplified summary on a specific topic he/she is interested in or to generate a daily digest, for example for ArXiv. 
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="../logo-clef-initiative.png" width="150">](http://www.clef-initiative.eu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="../logo-clef-2021.png" width="200">](http://clef2021.clef-initiative.eu/) 
