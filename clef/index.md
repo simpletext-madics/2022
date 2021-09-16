@@ -6,5 +6,5 @@ This is the SimpleText@CLEF-2022 website
 
 ---
 
-<img align="left" src="../simpletext-logo-blue.png" width="100"/>  
+<img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
 
