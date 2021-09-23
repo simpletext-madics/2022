@@ -29,7 +29,7 @@ In 2022, the SimpleText team will be completed by new members.
 
 Nicolas Poinsu, second year master's student in translation at the Université de Bretagne Occidentale (Brest, France)
 
-
+More information are available on the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
 
 
 
