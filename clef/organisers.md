@@ -15,7 +15,7 @@ In 2022, the SimpleText team will be completed by new members.
 
 [Radia Hannachi](https://fr.linkedin.com/in/radia-hannachi-0157141b), Université de Bretagne Sud (Lorient, France)
 
-[Stéphane Huet](https://cv.archives-ouvertes.fr/shuet) (task 3), Université d'Avignon (France)
+[Stéphane Huet](https://cv.archives-ouvertes.fr/shuet), Université d'Avignon (France)
 
 [Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam
 
