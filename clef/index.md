@@ -12,7 +12,7 @@ This is the SimpleText@CLEF-2022 website
 
 *SimpleText is a new workshop organised as a part of [CLEF-2022 conference](https://clef2022.clef-initiative.eu/index.php), initiated by [CLEF initiative](http://www.clef-initiative.eu/).*
 
-Lab topic and goals
+### Lab topic and goals
 
 SimpleText tackles technical challenges and evaluation challenges by providing appropriate data and benchmarks for text simplification. 
 We propose three tasks: 
