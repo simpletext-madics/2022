@@ -5,15 +5,16 @@
 
 ---
 
-* **30 April 2021:** Registration closes
-* **7 May 2021:** End of Evaluation Cycle
-* **28 May 2021:** Submission of Participant Papers [CEUR-WS]
-* **28 May – 11 June 2021:** Review process of participant papers
-* **11 June 2021:** Submission of Condensed Lab Overviews [LNCS]
-* **11 June 2021:** Notification of Acceptance Participant Papers [CEUR-WS]
-* **18 June 2021:** Notification of Acceptance Condensed Lab Overviews [LNCS]
-* **25 June 2021:** Camera Ready Copy of Condensed Lab Overviews [LNCS]
-* **2 July 2021:** Camera Ready Copy of Participant Papers and Extended Lab Overviews [CEUR-WS]
-* **12-16 July 2021:** CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
-
+* **May 2021:** Call for Lab Proposals released
+* **10 May - 30 June 2021:** Lab mentorship period
+* **1 July 2021:** Presentation of lab proposal deadline
+* **3 August 2021:** Notification of acceptance/rejection
+* **7 October 2021:** Release of first lab Flyer and Call for Participation
+* **15 November 2021:** Labs Registration opens
+* **15 November 2021 - 16 May 2022:** Evaluation Campaign
+* **9 June 2022:** Submission of CLEF 2022 Working Notes (participants)
+* **16 June 2022:** Submission of CLEF 2022 Labs Overviews (organizers)
+* **7 July 2022:** Review of Labs Overviews
+* **5 - 8 September 2022:** CLEF 2022 Conference
+* 
 For more details, click [here](https://clef2022.clef-initiative.eu/index.php?page=Pages/schedule.html)
