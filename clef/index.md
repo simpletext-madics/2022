@@ -9,7 +9,7 @@ This is the SimpleText@CLEF-2022 website
 <img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
 
 ## SimpleText: Automatic Simplification of Scientific Texts
-*Everything should be made as simple as possible, but no simpler (Albert Einstein)
+Everything should be made as simple as possible, but no simpler (Albert Einstein)
 
 Lab topic and goals
 
