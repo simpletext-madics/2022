@@ -1,5 +1,5 @@
 
-# SimpleText@CLEF-2021 Program
+# SimpleText@CLEF-2022 Program
 
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Pilot tasks](./tasks)  
