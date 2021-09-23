@@ -16,4 +16,4 @@
 * **2 July 2021:** Camera Ready Copy of Participant Papers and Extended Lab Overviews [CEUR-WS]
 * **12-16 July 2021:** CEUR-WS Working Notes Preview for Checking by Authors and Lab Organizers
 
-For more details, click [here](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
+For more details, click [here](https://clef2022.clef-initiative.eu/index.php?page=Pages/schedule.html)
