@@ -8,7 +8,9 @@ This is the SimpleText@CLEF-2022 website
 
 <img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
 
-The planned format of the lab: shared-task-style 
+## SimpleText: Automatic Simplification of Scientific Texts
+*Everything should be made as simple as possible, but no simpler (Albert Einstein)
+
 Lab topic and goals
 
 SimpleText tackles technical challenges and evaluation challenges by providing appropriate data and benchmarks for text simplification. 
