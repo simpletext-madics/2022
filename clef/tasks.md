@@ -37,11 +37,11 @@ For this edition queries are a selection of recent press titles from *The Guardi
 *Input format for all tasks:*
 * Topics are in the MD format
 
-<img src="../Query1.png">
+<img src="https://github.com/simpletext-madics/2021/blob/main/clef/Query1.png?raw=true">
 
 * Full text articles from *The Guardian* (link, folder query_related_content with full texts in the MD format)
 * ElasticSearch index on the following data server (e.g.): [https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352](https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352)
 * DBLP full dump in the JSON.GZ format
 * DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract):
 
-<img src="../MDformat.png">
+<img src="https://github.com/simpletext-madics/2021/blob/main/clef/MDformat.png?raw=true">
