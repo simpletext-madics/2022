@@ -10,7 +10,7 @@ This is the SimpleText@CLEF-2022 website
 
 ## SimpleText: Automatic Simplification of Scientific Texts
 
-*SimpleText is a new workshop organised as a part of [CLEF-2022 conference](https://clef2022.clef-initiative.eu/index.php), initiated by [CLEF initiative](http://www.clef-initiative.eu/)
+*SimpleText is a new workshop organised as a part of [CLEF-2022 conference](https://clef2022.clef-initiative.eu/index.php), initiated by [CLEF initiative](http://www.clef-initiative.eu/)*
 
 Lab topic and goals
 
