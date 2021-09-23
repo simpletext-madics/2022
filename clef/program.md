@@ -11,7 +11,7 @@
 
 [Registration form](https://forms.gle/bfcPqhaNDhnA1NiU8)
 ------------------------------------------------------------
-[CLEF schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/programme.html)
+[CLEF schedule](https://clef2022.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
 ## Bucharest time zone (GMT+3)
 
