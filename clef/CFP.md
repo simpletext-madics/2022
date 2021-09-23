@@ -7,9 +7,9 @@
 
 ## Deadlines
 
-* Submissions: 30 April 2021 (AoE)  
-* Notifications: 7 May 2021  
-* CLEF conference: 21 - 24 September 2021  
+* Submissions: 9 May 2022 (AoE)  
+* Notifications: 6 June 2022  
+* CLEF conference: 5 - 8 September 2022  
 
 ## Context of the workshop
 Scientific literacy, including health related questions, is important in order to allow people to make informed decisions, evaluate information quality, maintain physiological and mental health. For example, the stories individuals find credible can determine their response to the COVID-19 pandemic, including the application of social distancing, using dangerous fake medical treatments, or hoarding panic buying. Unfortunately, stories in social media may be easier for lay people to understand than scientific papers due to the lack of prior background knowledge or complex language and internal vernacular. Scientific texts such as research publications can also be difficult to understand for non domain-experts or scientists outside the publication domain. Improving text comprehensibility and its adaptation to different audiences remains an unresolved problem. From a societal perspective, SimpleText will be a step forward to make the research really open, accessible and understandable for everyone [[1]](#bibliography), to develop a counter-speech to fake news based on scientific results, to allow people to read faster and consequently, become more aware of scientific results, especially with an explosion of open science during the current COVID-19 pandemic. Simplified texts are also more accessible for non-native speakers [[2]](#bibliography), young readers and people with reading disabilities [[3]](#bibliography). Also, text simplification allows the improvement of text-mining and NLP applications, including machine translation results [[4]](#bibliography). Thus, automatic text simplification could be useful for various domains such as scientific communication, scientific journalism, politics, and education.
