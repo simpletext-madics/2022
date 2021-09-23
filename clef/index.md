@@ -1,7 +1,7 @@
 This is the SimpleText@CLEF-2022 website
 
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Pilot tasks](./tasks)  
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Shared tasks](./tasks)  
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr)
 
 ---
@@ -25,7 +25,7 @@ To face these challenges, SimpleText aims to answer the following research quest
 <br/>RQ2 - What kind of background information should be provided (what terms should be contextualised by giving a definition and/or application)? What information is the most relevant or helpful? 
 <br/>RQ3 - How to improve the readability of a given short text (e.g. by reducing vocabulary and syntactic complexity) with acceptable rate of information distortion? 
 
-Significance for the field & Relevance to CLEF
+### Significance for the field & Relevance to CLEF
 
 Information access systems provide users with key information from reliable sources such as scientific literature; however, non-experts may tend to avoid these sources due to its complex language or their lack of background knowledge. Text simplification removes some of these barriers. SimpleText will be a step forward to make research really open, accessible and understandable for everyone and help to counter fake news based on scientific results. It will allow people to read faster, which will make them more aware of scientific results. This is especially important with an explosion of open science during the current COVID-19 pandemic. Simplified texts are more accessible for non-native speakers, young readers and people with reading disabilities. Also, text simplification allows the improvement of natural language processing (NLP) applications, including machine translation results. Automatic text simplification could be useful for various domains such as scientific communication, science journalism, politics and education. Text simplification can be used in translation (computer-aided translation & website localization, pre-editing) and technical writing.
 
