@@ -16,9 +16,9 @@ This is the SimpleText@CLEF-2022 website
 
 SimpleText tackles technical challenges and evaluation challenges by providing appropriate data and benchmarks for text simplification. 
 We propose three tasks: 
-(1) passage selection and summarization, 
-(2) comprehensibility and 
-(3) readability of texts. 
+<br/>(1) passage selection and summarization, 
+<br/>(2) comprehensibility and 
+<br/>(3) readability of texts. 
 
 To face these challenges, SimpleText aims to answer the following research questions: RQ1 - What textual expression carrying information should be simplified (document and passage to be included in the simplified summary)? RQ2 - What kind of background information should be provided (what terms should be contextualised by giving a definition and/or application)? What information is the most relevant or helpful? RQ3 - How to improve the readability of a given short text (e.g. by reducing vocabulary and syntactic complexity) with acceptable rate of information distortion? 
 
