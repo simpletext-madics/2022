@@ -17,8 +17,8 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 <br>
 
 ## Access
-Please register at the SimpleText@CLEF workshop in order to access the data: [http://clef2021-labs-registration.dei.unipd.it/](http://clef2021-labs-registration.dei.unipd.it/)  
-After registration, you will receive an email with information on how to log in to the data server: [https://guacamole.univ-avignon.fr](https://guacamole.univ-avignon.fr)
+Please register at the SimpleText@CLEF workshop in order to access the data: [https://clef2022.clef-initiative.eu/index.php](https://clef2022.clef-initiative.eu/index.php)  
+After registration, you will receive an email with information on how to get access to the data.
 
 ### Result submission:
 Participants should put their run results into the folder Documents created for their user.
