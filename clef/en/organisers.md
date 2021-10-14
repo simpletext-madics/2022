@@ -27,6 +27,6 @@ In 2022, the SimpleText team will be completed by new members.
 
 [Eric San-Juan](https://termwatch.es/), Laboratoire d’Informatique d’Avignon,Institut de technologie de Avignon (Avignon, France)
 
-[Albin Digue](https://www.linkedin.com/in/albin-digue-07b3b4197/) & Julien Jouan, in charge of website maintenance (Brest, France)
+[Albin Digue](https://www.linkedin.com/in/albin-digue-07b3b4197/) & [Julien Jouan](https://www.linkedin.com/in/julien-jouan-39b49721b/), in charge of website maintenance (Brest, France)
 
 More information are available on the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
