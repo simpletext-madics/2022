@@ -1,26 +1,26 @@
 
-# SimpleText@CLEF-2022 Pilot tasks
+# SimpleText@CLEF-2022 Tasks
 
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Pilot tasks](./tasks)  
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr/task1)
 
 
 ---
 
-## SimpleText Pilot Task Guidelines
+## SimpleText Task Guidelines
 
 We invite you to submit both automatic and manual runs! Manual intervention should be reported.
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Pilot task 1](./task1)</button> | <button>[Pilot task 2](./task2)</button> | <button>[Pilot task 3](./task3)</button>
+<button>[Access](./tasks)</button> | <button>[Task 1](./task1)</button> | <button>[Task 2](./task2)</button> | <button>[Task 3](./task3)</button>
 
 <br>
 
-## Pilot Task 1: Selecting passages to include in a simplified summary – Content Simplification
+## Task 1: Selecting passages to include in a simplified summary – Content Simplification
 
-Given an article from a major international newspaper general audience, this pilot task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper. Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
+Given an article from a major international newspaper general audience, this task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper. Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
 
 *Output format:*  
  
