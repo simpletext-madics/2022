@@ -1,6 +1,6 @@
 # SimpleText@CLEF-2022 Organisers
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Shared tasks](./tasks)  
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Shared tasks](./tasks)  | [Tools](./tools) 
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr/organisation)
 
 ---
@@ -27,6 +27,6 @@ In 2022, the SimpleText team will be completed by new members.
 
 [Eric San-Juan](https://termwatch.es/), Laboratoire d’Informatique d’Avignon,Institut de technologie de Avignon (Avignon, France)
 
-Nicolas Poinsu, second year master's student in translation at the Université de Bretagne Occidentale (Brest, France)
+[Albin Digue](https://www.linkedin.com/in/albin-digue-07b3b4197/) & Julien Jouan, in charge of website maintenance (Brest, France)
 
 More information are available on the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
