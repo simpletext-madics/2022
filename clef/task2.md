@@ -1,25 +1,25 @@
 
-# SimpleText@CLEF-2022 Pilot tasks
+# SimpleText@CLEF-2022 Tasks
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Pilot tasks](./tasks)  
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr/task2)
 
 
 ---
 
-## SimpleText Pilot Task Guidelines
+## SimpleText Task Guidelines
 
 We invite you to submit both automatic and manual runs! Manual intervention should be reported.
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Pilot task 1](./task1)</button> | <button>[Pilot task 2](./task2)</button> | <button>[Pilot task 3](./task3)</button>
+<button>[Access](./tasks)</button> | <button>[Task 1](./task1)</button> | <button>[Task 2](./task2)</button> | <button>[Task 3](./task3)</button>
 
 <br>
 
-## Pilot Task 2: Identifying difficult-to-understand concepts for non experts – Content Simplification
+## Task 2: Identifying difficult-to-understand concepts for non experts – Content Simplification
 
-The goal of this pilot task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). Term pooling and automatic metrics (NDCG,...) will be used to evaluate these results.
+The goal of this task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). Term pooling and automatic metrics (NDCG,...) will be used to evaluate these results.
 
 *Output format:*  
 
