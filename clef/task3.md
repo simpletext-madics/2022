@@ -1,25 +1,25 @@
 
-# SimpleText@CLEF-2022 Pilot tasks
+# SimpleText@CLEF-2022 Tasks
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Pilot tasks](./tasks)  
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr/task3)
 
 
 ---
 
-## SimpleText Pilot Task Guidelines
+## SimpleText Task Guidelines
 
 We invite you to submit both automatic and manual runs! Manual intervention should be reported.
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Pilot task 1](./task1)</button> | <button>[Pilot task 2](./task2)</button> | <button>[Pilot task 3](./task3)</button>
+<button>[Access](./tasks)</button> | <button>[Task 1](./task1)</button> | <button>[Task 2](./task2)</button> | <button>[Task 3](./task3)</button>
 
 <br>
 
-## Pilot Task 3: Scientific text simplification – Language simplification
+## Task 3: Scientific text simplification – Language simplification
 
-The goal of this pilot task is to provide a simplified version of text passages. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences as in the exemple [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa). The simplified passages will be evaluated manually with eventual use of aggregating metrics.
+The goal of this task is to provide a simplified version of text passages. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences as in the exemple [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa). The simplified passages will be evaluated manually with eventual use of aggregating metrics.
 
 *Output format:*  
 
