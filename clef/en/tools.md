@@ -3,8 +3,6 @@
 
 ---
 
-<img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
-
 ## Relevant tools
 ### Task 1: Automatic summarization tools
 
