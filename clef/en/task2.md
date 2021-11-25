@@ -16,7 +16,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-## Task 2: Identifying difficult-to-understand concepts for non experts – Content Simplification
+## Task 2: What is unclear? Given a passage and a query, rank terms/concepts that are required to be explained for understanding this passage (definitions, context, applications,..).
 
 The goal of this task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). Term pooling and automatic metrics (NDCG,...) will be used to evaluate these results.
 
