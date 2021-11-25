@@ -16,7 +16,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-## Task 3: Scientific text simplification – Language simplification
+## Task 3: Rewrite this! Given a query, simplify passages from scientific abstracts. 
 
 The goal of this task is to provide a simplified version of text passages. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences as in the exemple [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa). The simplified passages will be evaluated manually with eventual use of aggregating metrics.
 
