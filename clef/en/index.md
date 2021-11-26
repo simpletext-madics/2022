@@ -14,10 +14,16 @@
 ### Lab topic and goals
 
 SimpleText tackles technical challenges and evaluation challenges by providing appropriate data and benchmarks for text simplification. 
-<br/>We propose three tasks: 
-* (1) passage selection and summarization
-* (2) comprehensibility
-* (3) readability of texts
+<br/>We propose the following tasks: 
+* [TASK 1   What is in (or out)?](./task1)
+Select passages to include in a simplified summary, given a query
+* [TASK 2   What is unclear?](./task2)
+Given a passage and a query, rank terms/concepts that are required to be explained for understanding this passage (definitions, context, applications,..) 
+* [TASK 3   Rewrite this!](./task3)
+Given a query, simplify passages from scientific abstracts 
+* [UNSHARED TASK](./task4)
+We welcome any submission that uses our data!
+
 
 To face these challenges, SimpleText aims to answer the following research questions: 
 <br/>RQ1 - What textual expression carrying information should be simplified (document and passage to be included in the simplified summary)? 
