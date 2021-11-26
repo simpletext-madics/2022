@@ -4,8 +4,6 @@
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="https://github.com/simpletext-madics/2021/blob/main/clef/FR.png?raw=true" width="30">](../fr/organisation)
 
 ---
-In 2022, the SimpleText team will be completed by new members.
-*Organisers of SimpleText-2021*
 
 [Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Chair), HCTI – EA 4249, Université de Bretagne Occidentale (Brest, France)
 
