@@ -1,1 +1,13 @@
-theme: jekyll-theme-tactile
+title: SimpleText@CLEF-2022 
+email: contact@simpletext-project.com
+description: >- # this means to ignore newlines until "baseurl:"
+        SimpleText is a new lab organised as a part of <a href="https://clef2022.clef-initiative.eu/index.php">CLEF-2022 conference</a>, 
+        initiated by <a href="http://www.clef-initiative.eu/">CLEF initiative</a>.
+url: "http://simpletext-project.com/2022/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: SimpletextW
+github_username:  simpletext-madics
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=83668292b84f031f71f3f3b5f57133688beec5c5">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>SimpleText@CLEF-2022 Tasks | SimpleText@CLEF-2022</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="SimpleText@CLEF-2022 Tasks" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="SimpleText is a new lab organised as a part of CLEF-2022 conference, initiated by CLEF initiative." />
+<meta property="og:description" content="SimpleText is a new lab organised as a part of CLEF-2022 conference, initiated by CLEF initiative." />
+<link rel="canonical" href="http://localhost:4000/clef/en/task2.html" />
+<meta property="og:url" content="http://localhost:4000/clef/en/task2.html" />
+<meta property="og:site_name" content="SimpleText@CLEF-2022" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="SimpleText@CLEF-2022 Tasks" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/clef/en/task2.html","headline":"SimpleText@CLEF-2022 Tasks","description":"SimpleText is a new lab organised as a part of CLEF-2022 conference, initiated by CLEF initiative.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+            <a id="forkme_banner" href="https://github.com/simpletext-madics/2022">View on GitHub</a>
+          
+
+          <h1 id="project_title">SimpleText@CLEF-2022</h1>
+          <h2 id="project_tagline">SimpleText is a new lab organised as a part of <a href="https://clef2022.clef-initiative.eu/index.php">CLEF-2022 conference</a>,  initiated by <a href="http://www.clef-initiative.eu/">CLEF initiative</a>.</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1 id="simpletextclef-2022-tasks">SimpleText@CLEF-2022 Tasks</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./">Home</a></td>
+      <td><a href="./CFP">Call for papers</a></td>
+      <td><a href="./dates">Important dates</a></td>
+      <td><a href="./tasks">Tasks</a></td>
+      <td><a href="./tools">Tools</a></td>
+    </tr>
+    <tr>
+      <td><a href="./program">Program</a></td>
+      <td><a href="./publications">Publications</a></td>
+      <td><a href="./organisers">Organisers</a></td>
+      <td><a href="./contact">Contact</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="simpletext-task-guidelines">SimpleText Task Guidelines</h2>
+
+<p>We invite you to submit both automatic and manual runs! Manual intervention should be reported.</p>
+
+<hr />
+
+<table>
+  <tbody>
+    <tr>
+      <td><button><a href="./tasks">Access</a></button></td>
+      <td><button><a href="./task1">Shared task 1</a></button></td>
+      <td><button><a href="./task2">Shared task 2</a></button></td>
+      <td><button><a href="./task3">Shared task 3</a></button></td>
+      <td><button><a href="./task4">Unshared task 4</a></button></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="task-2-what-is-unclear-given-a-passage-and-a-query-rank-termsconcepts-that-are-required-to-be-explained-for-understanding-this-passage-definitions-context-applications">Task 2: What is unclear? Given a passage and a query, rank terms/concepts that are required to be explained for understanding this passage (definitions, context, applications,..).</h2>
+
+<p>The goal of this task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). Term pooling and automatic metrics (NDCG,…) will be used to evaluate these results.</p>
+
+<p><em>Output format:</em></p>
+
+<p>List of terms to be contextualized in a tabulated file TSV with the following fields:</p>
+<ul>
+  <li><em>run_id</em>: Run ID starting with team_id_</li>
+  <li><em>manual</em>: Whether the run is manual {0,1}</li>
+  <li><em>topic_id</em>: Topic ID</li>
+  <li><em>passage_text</em>: Passage text</li>
+  <li><em>term</em>: Term or other phrase to be explained</li>
+  <li><em>rank</em>: Importance of the explanation for a given term</li>
+</ul>
+
+<p>Run_id         manual         topic_id         passage_text         term         rank</p>
+
+<h3 id="evaluation">Evaluation</h3>
+<p>Term pooling and automatic metrics (NDCG,…) will be used to evaluate these results.</p>
+
+<p>OUTPUT example:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">run_id</th>
+      <th style="text-align: left">manual</th>
+      <th style="text-align: left">topic_id</th>
+      <th style="text-align: left">passage_text</th>
+      <th style="text-align: left">term</th>
+      <th style="text-align: left">rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ST_1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Automated decision making based on big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. The majority of thus far proposed fairness-aware machine learning approaches focus solely on the pre-, in- or post-processing steps of the machine learning process, that is, input data, learning algorithms or derived models, respectively. However, the fairness problem cannot be isolated to a single step of the ML process. Rather, discrimination is often a result of complex interactions between big data and algorithms, and therefore, a more holistic approach is required. The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre- and postprocessing steps of the data analysis process. In the preprocessing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.</td>
+      <td style="text-align: left">machine learning</td>
+      <td style="text-align: left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ST_1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Automated decision making based on big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. The majority of thus far proposed fairness-aware machine learning approaches focus solely on the pre-, in- or post-processing steps of the machine learning process, that is, input data, learning algorithms or derived models, respectively. However, the fairness problem cannot be isolated to a single step of the ML process. Rather, discrimination is often a result of complex interactions between big data and algorithms, and therefore, a more holistic approach is required. The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre- and postprocessing steps of the data analysis process. In the preprocessing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.</td>
+      <td style="text-align: left">societal biases</td>
+      <td style="text-align: left">2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ST_1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">Automated decision making based on big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. The majority of thus far proposed fairness-aware machine learning approaches focus solely on the pre-, in- or post-processing steps of the machine learning process, that is, input data, learning algorithms or derived models, respectively. However, the fairness problem cannot be isolated to a single step of the ML process. Rather, discrimination is often a result of complex interactions between big data and algorithms, and therefore, a more holistic approach is required. The proposed FAE (Fairness-Aware Ensemble) framework combines fairness-related interventions at both pre- and postprocessing steps of the data analysis process. In the preprocessing step, we tackle the problems of under-representation of the protected group (group imbalance) and of class-imbalance by generating balanced training samples. In the post-processing step, we tackle the problem of class overlapping by shifting the decision boundary in the direction of fairness.</td>
+      <td style="text-align: left">ML</td>
+      <td style="text-align: left">3</td>
+    </tr>
+  </tbody>
+</table>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">SimpleText@CLEF-2022 maintained by <a href="https://github.com/simpletext-madics">simpletext-madics</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
