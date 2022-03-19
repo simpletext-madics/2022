@@ -19,7 +19,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ## Task 1:  What is in (or out)? Select passages to include in a simplified summary, given a query.
 
-Given an article from a major international newspaper general audience, this task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper. Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
+Given an article from a major international newspaper for a general audience, this task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper. Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
 
 *Output format:*  
  
