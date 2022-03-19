@@ -24,30 +24,75 @@ Passages (sentences) are considered to be independent, i.e. difficult term repet
 
 **Input format:** 
 The train and the test data are provided in JSON and CSV formats with the following fields:
-* *snt_id*: a unique passage (sentence) identifier
-* *source_snt*: passage text
-* *doc_id*: a unique source document identifier
-* *query_id*: a query ID
-* *query_text*: difficult terms should be extracted from sentences with regard to this query
+* `snt_id`: a unique passage (sentence) identifier
+* `source_snt`: passage text
+* `doc_id`: a unique source document identifier
+* `query_id`: a query ID
+* `query_text`: difficult terms should be extracted from sentences with regard to this query
 
 *Input example:*
 
-*{"snt_id":"G06.2_2548923997_3","source_snt":"These communication systems render self-driving vehicles vulnerable to many types of malicious attacks, such as Sybil attacks, Denial of Service (DoS), black hole, grey hole and wormhole attacks.","doc_id":2548923997,"query_id":"G06.2","query_text":"self driving"}*
+```
+{"snt_id":"G06.2_2548923997_3",
+"source_snt":"These communication systems render self-driving vehicles vulnerable to many types of malicious attacks, such as Sybil attacks, Denial of Service (DoS), black hole, grey hole and wormhole attacks.",
+"doc_id":2548923997,
+"query_id":"G06.2",
+"query_text":"self driving"}
+```
 
 **Output format:** 
 
 List of terms to be contextualized in a **JSON format** or a tabulated file TSV (for manual runs) with the following fields:
-* *run_id*: Run ID starting with **team_id_**
-* *manual*: Whether the run is manual {0,1}
-* *snt_id*: a unique passage (sentence) identifier from the input file 
-* *term*: Term or other phrase to be explained
-* *term_rank_snt*: term difficulty rank within the given sentence
-* *score_5*: term difficulty score on the scale from 1 to 5 (5 to be the most difficult terms)
-* *score_3*: term difficulty score on the scale from 1 to 3 (3 to be the most difficult terms)
+* `run_id`: Run ID starting with **team_id_**
+* `manual`: Whether the run is manual {0,1}
+* `snt_id`: a unique passage (sentence) identifier from the input file 
+* `term`: Term or other phrase to be explained
+* `term_rank_snt`: term difficulty rank within the given sentence
+* `score_5`: term difficulty score on the scale from 1 to 5 (5 to be the most difficult terms)
+* `score_3`: term difficulty score on the scale from 1 to 3 (3 to be the most difficult terms)
 
 *Output example*:
 
-*{"run_id":"NP","manual":1,"snt_id":"G06.2_2548923997_3","term":"black hole attack","term_rank_snt":1,"score_5":5,"score_3":3},{"run_id":"NP","manual":1,"snt_id":"G06.2_2548923997_3","term":"grey hole attack","term_rank_snt":2,"score_5":5,"score_3":3},{"run_id":"NP","manual":1,"snt_id":"G06.2_2548923997_3","term":"Sybil attack","term_rank_snt":3,"score_5":5,"score_3":3},{"run_id":"NP","manual":1,"snt_id":"G06.2_2548923997_3","term":"wormhole attack","term_rank_snt":4,"score_5":5,"score_3":3},{"run_id":"NP","manual":1,"snt_id":"G06.2_2548923997_3","term":"Denial of service attack","term_rank_snt":5,"score_5":4,"score_3":3}*
+```{json}
+{"run_id":"NP",
+"manual":1,
+"snt_id":"G06.2_2548923997_3",
+"term":"black hole attack",
+"term_rank_snt":1,
+"score_5":5,
+"score_3":3},
+
+{"run_id":"NP",
+"manual":1,
+"snt_id":"G06.2_2548923997_3",
+"term":"grey hole attack",
+"term_rank_snt":2,
+"score_5":5,
+"score_3":3},
+
+{"run_id":"NP",
+"manual":1,
+"snt_id":"G06.2_2548923997_3",
+"term":"Sybil attack",
+"term_rank_snt":3,
+"score_5":5,
+"score_3":3},
+
+{"run_id":"NP",
+"manual":1,
+"snt_id":"G06.2_2548923997_3",
+"term":"wormhole attack",
+"term_rank_snt":4,
+"score_5":5,"score_3":3},
+
+{"run_id":"NP",
+"manual":1,
+"snt_id":"G06.2_2548923997_3",
+"term":"Denial of service attack",
+"term_rank_snt":5,
+"score_5":4,
+"score_3":3}
+```
 
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
