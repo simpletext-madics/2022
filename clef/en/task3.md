@@ -18,7 +18,16 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ## Task 3: Rewrite this! Given a query, simplify passages from scientific abstracts. 
 
-The goal of this task is to provide a simplified version of text passages. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences as in the exemple [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa). The simplified passages will be evaluated manually with eventual use of aggregating metrics.
+The goal of this task is to provide a simplified version of text passages (sentences) with regard to a query. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences. The simplified passages will be evaluated manually with eventual use of aggregating metrics.
+
+**Intput format:** 
+* *snt_id*: a unique passage (sentence) identifier
+* *source_snt*: passage texte
+* *doc_id*: a unique source document identifier
+* *query_id*: a query ID
+* *query_text*: simplification should be done with regard to this query
+
+*Input example:*
 
 *Output format:*  
 
