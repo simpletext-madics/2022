@@ -21,6 +21,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 The goal of this task is to provide a simplified version of text passages (sentences) with regard to a query. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences. The simplified passages will be evaluated manually with eventual use of aggregating metrics.
 
 **Intput format:** 
+The train and and the test data are provided in JSON and CSV formats with the following fields:
 * *snt_id*: a unique passage (sentence) identifier
 * *source_snt*: passage texte
 * *doc_id*: a unique source document identifier
@@ -31,9 +32,8 @@ The goal of this task is to provide a simplified version of text passages (sente
 
 *{"snt_id":"G11.1_2892036907_2","source_snt":"With the ever increasing number of unmanned aerial vehicles getting involved in activities in the civilian and commercial domain, there is an increased need for autonomy in these systems too.","doc_id":2892036907,"query_id":"G11.1","query_text":"drones"}*
 
-*Output format:*  
-
-Simplified passages in a TSV tabulated file with the following fields:
+**Output format:** 
+List of terms to be contextualized in a **JSON format** or a tabulated file TSV (for manual runs) with the following fields:
 * *run_id*: Run ID starting with **team_id_**
 * *manual*: Whether the run is manual {0,1}
 * *snt_id*: a unique passage (sentence) identifier from the input file 
