@@ -29,23 +29,27 @@ The goal of this task is to provide a simplified version of text passages (sente
 
 *Input example:*
 
+*{"snt_id":"G11.1_2892036907_2","source_snt":"With the ever increasing number of unmanned aerial vehicles getting involved in activities in the civilian and commercial domain, there is an increased need for autonomy in these systems too.","doc_id":2892036907,"query_id":"G11.1","query_text":"drones"}*
+
 *Output format:*  
 
 Simplified passages in a TSV tabulated file with the following fields:
-* *run_id*: Run ID starting with team_id_
+* *run_id*: Run ID starting with **team_id_**
 * *manual*: Whether the run is manual {0,1}
-* *topic_id*: Topic ID 
-* *topic_text*: Topic text
-* *source_passage*: Source passage text 
-* *simplified_passage*: Text of the simplified passage 
+* *snt_id*: a unique passage (sentence) identifier from the input file 
+* *simplified_snt*: Text of the simplified passage 
 
-run_id &nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp; topic_text &nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp; source_passage &nbsp;&nbsp;&nbsp;&nbsp; simplified_passage
+*Output example*:
+{"run_id":"BTU","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
 
 ### Evaluation
 The simplified passages will be evaluated manually with eventual use of aggregating metrics.
 
-OUTPUT example:
+### Result submission:
+Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@simpletext-project.com*.
 
-| run_id | manual | topic_id | topic_text | doc_id | source_passage | simplified_passage |
-|:-------|:-------|:---------|:-----------|:-------|:---------------|:-------------------|
-| BTU | 1 | 1 | Digital assistants like Siri and Alexa entrench gender biases, says UN | 3003409254 | Automated decision making based on big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. | Automated decision-making may include sexist and racist biases and even reinforce them because their algorithms are based on the most prominent social representation in the dataset they use. |
+The email subject has to be in the format **\[CLEF TASK 3] TEAM_ID**. 
+
+Runs should be submitted as a <ins>ZIP folder of the corresponding JSON files</ins>. Manual runs are allowed to be submitted in a CSV format. 
+
+A confirmation email will be sent within 2 days after the submission deadline. 
