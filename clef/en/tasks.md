@@ -20,27 +20,11 @@ Please register at the SimpleText@CLEF workshop in order to access the data: [ht
 After registration, you will receive an email with information on how to get access to the data.
 
 ### Result submission:
-Participants should put their run results into the folder Documents created for their user.
+Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@simpletext-project.com*.
 
-### 2022 DataSet
-For this edition we use the Citation Network Dataset: DBLP+Citation, ACM Citation network ([https://www.aminer.org/citation](https://www.aminer.org/citation)). An elastic search index is provided to participants accessible through a GUI API. This Index is adequate to:
-* apply basic passage retrieval methods based on vector or language IR models
-* generate Latent Dirichlet Allocation models,
-* train Graph Neural Networks for citation recommendation as carried out in [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/) for example,
-* apply deep bi directionnal transformers for query expansion.
-* and much more…
+The email subject has to be in the format **\[CLEF TASK \<NUMBER\>\] TEAM_ID**. 
 
-### 2022 Queries
-For this edition queries are a selection of recent press titles from *The Guardian* enriched with keywords manually extracted from the content of the article. It has been checked that each keyword allows to extract at least 5 relevant abstracts. The use of these keywords is optional.
+Runs should be submitted as a <ins>ZIP folder of the corresponding JSON files</ins>. Manual runs are allowed to be submitted in a CSV format. 
 
-*Input format for all tasks:*
-* Topics are in the MD format
+A confirmation email will be sent within 2 days after the submission deadline. 
 
-<img src="https://github.com/simpletext-madics/2021/blob/main/clef/Query1.png?raw=true">
-
-* Full text articles from *The Guardian* (link, folder query_related_content with full texts in the MD format)
-* ElasticSearch index on the following data server (e.g.): [https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352](https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352)
-* DBLP full dump in the JSON.GZ format
-* DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract):
-
-<img src="https://github.com/simpletext-madics/2021/blob/main/clef/MDformat.png?raw=true">
