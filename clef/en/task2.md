@@ -22,10 +22,10 @@ The goal of this task is to decide which terms (up to 5) require explanation and
 For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be derived or guessed) and on the scale 1-5 (5 to be the most difficult terms). 
 Passages (sentences) are considered to be independent, i.e. difficult term repetition is allowed. Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics...) will be used to evaluate these results.
 
-**Intput format:** 
-The train and and the test data are provided in JSON and CSV formats with the following fields:
+**Input format:** 
+The train and the test data are provided in JSON and CSV formats with the following fields:
 * *snt_id*: a unique passage (sentence) identifier
-* *source_snt*: passage texte
+* *source_snt*: passage text
 * *doc_id*: a unique source document identifier
 * *query_id*: a query ID
 * *query_text*: difficult terms should be extracted from sentences with regard to this query
