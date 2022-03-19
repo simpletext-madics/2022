@@ -18,7 +18,9 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ## Task 2: What is unclear? Given a passage and a query, rank terms/concepts that are required to be explained for understanding this passage (definitions, context, applications,..).
 
-The goal of this task is to decide which terms (up to 5) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be dervied or guessed) and on the scale 1-5 (5 to be the most difficult terms). Passages (sentences) are considered to be independent, i.e. difficult term repitition is allowed. Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics...) will be used to evaluate these results.
+The goal of this task is to decide which terms (up to 5) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case). 
+For each passage, participants should provide a ranked list of difficult terms with corresponding scores on the scale 1-3 (3 to be the most difficult terms, while the meaning of terms scored 1 can be derived or guessed) and on the scale 1-5 (5 to be the most difficult terms). 
+Passages (sentences) are considered to be independent, i.e. difficult term repetition is allowed. Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics...) will be used to evaluate these results.
 
 **Intput format:** 
 The train and and the test data are provided in JSON and CSV formats with the following fields:
