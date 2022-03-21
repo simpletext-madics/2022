@@ -47,8 +47,8 @@ For each topic, the maximum number of distinct DBLP references (_id json field) 
 | run_id | manual | topic_id | query_id | doc_id | passage |
 |:-------|:-------|:---------|:-------|:--------|:-----|
 | ST1_1 | 0 | G01 | G01.1 | 1564531496 | A CDA is a mobile user device, similar to a Personal Digital Assistant (PDA). It supports the citizen when dealing with public authorities and proves his rights - if desired, even without revealing his identity. |
-| ST1_1 | 0 | G01 | G01.1 | 3000234933 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
-| ST1_1 | 0 | G01 | G01.2 |  | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
+| ST1_1 | 0 | G01 | G01.1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
+| ST1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
 
 
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
