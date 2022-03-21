@@ -19,19 +19,35 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ## Task 1:  What is in (or out)? Select passages to include in a simplified summary, given a query.
 
-Given an article from a major international newspaper for a general audience, this task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper. Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
+The task aims at finding references in computer science that could be inserted as citations in original press articles of general audience for illustration, fact checking or actualization. For each of the selected references, more relevant sentences need to be extracted. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focus on content retrieval.
 
-*Output format:*  
+**Corpus: DBLP + abstracts**
+
+We use the Citation Network Dataset: DBLP+Citation, [ACM Citation network](https://www.aminer.org/citation). An ElasticSearch index is provided to participants accessible through a GUI API. A json dump of the index is also available for participants.
+
+**Topics: Press articles**
+
+Topics are a selection of 40 press article. 20 from a major international newspaper for a general audience and 20 from [Tech Xplore](https://techxplore.com/), enriched with queries manually extracted from the content of the article. It has been checked that at least 5 relevant abstracts can be found for for each query.
+
+**Output format:**
  
-A maximum of 1000 passages to be included in a simplified summary in a TSV (Tab-Separated Values) file with the following fields:
-* *run_id*: Run ID starting with team_id_
-* *manual*: Whether the run is manual {0,1}
-* *topic_id*: Topic ID
-* *doc_id*: Source document ID
-* *passage*: Text of the selected passage
-* *rank*: Passage rank
+Results should be provided in a TREC style tabulated format:
 
-*run_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rank*
+1. run_id: Run ID starting with teamid
+2. manual: Whether the run is manual {0,1}
+3. topic_id: Topic ID
+4. query_id: Query ID used to retrieve the document (if one of the queries provided for the topic was used; 0 otherwise)
+5. doc_id: ID of the retrieved document (to be extracted from the json output)
+6. passage: Text of the selected passage
+ 
+*Output example*:
+
+| run_id | manual | topic_id | query_id | doc_id | passage |
+|:-------|:-------|:---------|:-------|:--------|:-----|
+| ST1_1 | 0 | G01 | G01.1 | 1564531496 | A CDA is a mobile user device, similar to a Personal Digital Assistant (PDA). It supports the citizen when dealing with public authorities and proves his rights - if desired, even without revealing his identity. |
+| ST1_1 | 0 | G01 | G01.1 | 3000234933 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
+| ST1_1 | 0 | G01 | G01.2 |  | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
+
 
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
@@ -46,10 +62,11 @@ In case of violation of the conditions for access to the data for scientific pur
 ### Evaluation  
 Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
 
-OUTPUT example:
+### Result submission:
+Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@simpletext-project.com*.
 
-| run_id | manual | topic_id | doc_id | passage | rank |
-|:-------|:-------|:---------|:-------|:--------|:-----|
-| ST1_1 | 1 | 1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects. | 1 |
-| ST1_1 | 1 | 1 | 3003409254 | big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. | 2 |
-| ST1_1 | 1 | 1 | 3003409254 | Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. | 3 |  
+The email subject has to be in the format **\[CLEF TASK 1] TEAM_ID**. 
+
+Runs should be submitted as a file in a TSV format. 
+
+A confirmation email will be sent within 2 days after the submission deadline. 
