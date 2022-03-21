@@ -40,6 +40,8 @@ Results should be provided in a TREC style tabulated format:
 5. doc_id: ID of the retrieved document (to be extracted from the json output)
 6. passage: Text of the selected passage
  
+For each topic, the maximum number of distinct DBLP references (_id json field) is 100 and the total length of passages should not exceed 1000 tokens.
+
 *Output example*:
 
 | run_id | manual | topic_id | query_id | doc_id | passage |
