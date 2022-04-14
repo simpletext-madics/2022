@@ -91,7 +91,7 @@ English queries: For this edition queries are a selection of recent press titles
 <br/>•	DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract)
 
 ## How to Cite
-If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_45) where it was introduced:
+If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_46) where it was introduced:
 ```
 Ermakova, L., Bellot, P., Kamps, J., Nurbakova, D., Ovchinnikova, I., SanJuan, E., Mathurin, E., Araújo, S., Hannachi, R., Huet, S., 
 & Poinsu, N. (2022). Automatic Simplification of Scientific Texts: SimpleText Lab at CLEF-2022. In M. Hagen, S. Verberne, C. Macdonald, 
