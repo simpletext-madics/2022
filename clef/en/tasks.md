@@ -38,3 +38,15 @@ Therefore, by downloading and using these data you give the following assurances
 3. You will not release nor permit others to release the dataset or any part of it to any person. 
 
 In case of violation of the conditions for access to the data for scientific purposes, this access may be withdrawn from the research entity and/or from the researcher. The research entity may also be liable to pay compensation for damages for third parties or asked to take disciplinary action against the offending researcher. 
+
+## How to Cite
+If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_46) where it was introduced:
+```
+Ermakova, L., Bellot, P., Kamps, J., Nurbakova, D., Ovchinnikova, I., SanJuan, E., Mathurin, E., Araújo, S., Hannachi, R., Huet, S., 
+& Poinsu, N. (2022). Automatic Simplification of Scientific Texts: SimpleText Lab at CLEF-2022. In M. Hagen, S. Verberne, C. Macdonald, 
+C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), Advances in Information Retrieval (Vol. 13186, pp. 364–373). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-99739-7_46
+```
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_46)
+
+[Dowload .BIB](../bib/simpletext_ecir_2022.bib)
