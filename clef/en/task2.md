@@ -94,6 +94,10 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_3":3}
 ```
 
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
+
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
 Therefore, by downloading and using these data you give the following assurances with respect to the SimpleText data:
