@@ -42,6 +42,10 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 *Output example*:
 {"run_id":"BTU_task_3","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
 
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
+
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
 Therefore, by downloading and using these data you give the following assurances with respect to the SimpleText data:
