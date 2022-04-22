@@ -95,6 +95,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 ```
 
 *Output format checker*
+
 You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
 [Download python output checker](../check_format.py)
 
