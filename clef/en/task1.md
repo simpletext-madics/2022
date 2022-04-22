@@ -51,6 +51,7 @@ For each topic, the maximum number of distinct DBLP references (_id json field) 
 | ST1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
 
 *Output format checker*
+
 You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
 [Download python output checker](../check_format.py)
 
