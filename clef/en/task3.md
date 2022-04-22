@@ -34,13 +34,13 @@ The train and and the test data are provided in JSON and CSV formats with the fo
 
 **Output format:** 
 List of terms to be contextualized in a **JSON format** or a tabulated file TSV (for manual runs) with the following fields:
-* *run_id*: Run ID starting with **team_id_**
+* *run_id*: Run ID starting with **team_id_task_3_**
 * *manual*: Whether the run is manual {0,1}
 * *snt_id*: a unique passage (sentence) identifier from the input file 
 * *simplified_snt*: Text of the simplified passage 
 
 *Output example*:
-{"run_id":"BTU","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
+{"run_id":"BTU_task_3","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
 
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
