@@ -43,7 +43,7 @@ The train and the test data are provided in JSON and CSV formats with the follow
 **Output format:** 
 
 List of terms to be contextualized in a **JSON format** or a tabulated file TSV (for manual runs) with the following fields:
-* `run_id`: Run ID starting with **team_id_**
+* `run_id`: Run ID starting with **team_id_task_id_**
 * `manual`: Whether the run is manual {0,1}
 * `snt_id`: a unique passage (sentence) identifier from the input file 
 * `term`: Term or other phrase to be explained
@@ -54,7 +54,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 *Output example*:
 
 ```{json}
-{"run_id":"NP",
+{"run_id":"NP_task_2",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"black hole attack",
@@ -62,7 +62,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP",
+{"run_id":"NP_task_2",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"grey hole attack",
@@ -70,7 +70,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP",
+{"run_id":"NP_task_2",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"Sybil attack",
@@ -78,14 +78,14 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP",
+{"run_id":"NP_task_2",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"wormhole attack",
 "term_rank_snt":4,
 "score_5":5,"score_3":3},
 
-{"run_id":"NP",
+{"run_id":"NP_task_2",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"Denial of service attack",
