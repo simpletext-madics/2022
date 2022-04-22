@@ -50,6 +50,9 @@ For each topic, the maximum number of distinct DBLP references (_id json field) 
 | ST1_1 | 0 | G01 | G01.1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
 | ST1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
 
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 **Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
