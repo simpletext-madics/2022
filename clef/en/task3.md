@@ -43,6 +43,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 {"run_id":"BTU_task_3","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
 
 *Output format checker*
+
 You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
 [Download python output checker](../check_format.py)
 
