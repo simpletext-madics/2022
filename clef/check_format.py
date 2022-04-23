@@ -14,7 +14,7 @@ def check_format(df,columns):
       print('ERROR:\n\tThere is no column named '+c+'\n\t\tPlease check the format. You can find format requirements at https://www.joker-project.com/clef-2022/EN/project')
   if not df['manual'].isin([0,1]).prod():
     print('ERROR:\n\tThere is an error in the column MANUAL. The values should be in [0,1]. '+c+'\n\t\tPlease check the format. You can find format requirements at https://www.joker-project.com/clef-2022/EN/project')
-  if df['run_id'].str.split(r"_task_\d_?",expand=True).shape[1]!=3:
+  if df['run_id'].str.split(r"_task_?\d_?",expand=True).shape[1]!=3:
     print('ERROR:\n\tRUN_ID must have the following format: TEAM_ID_TASK_ID_RUN_NAME, e.g. BTU_TASK_2_MANUAL or UBO_TASK3_RUN_1. \n\t\tPlease check the format. You can find format requirements at https://www.joker-project.com/clef-2022/EN/project')
 
 def check_json(fn,columns):
