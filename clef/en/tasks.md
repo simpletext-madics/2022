@@ -24,7 +24,10 @@ Participants should put their run results into the folder Documents created for 
 
 The email subject has to be in the format **\[CLEF TASK \<NUMBER\>\] TEAM_ID**. 
 
-Runs should be submitted as a <ins>ZIP folder of the corresponding JSON files</ins>. Manual runs are allowed to be submitted in a CSV format. 
+Runs should be submitted as a <ins>ZIP folder of the corresponding JSON files</ins>. Manual runs are allowed to be submitted in a CSV format with the TAB separator. 
+
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 A confirmation email will be sent within 2 days after the submission deadline. 
 
