@@ -31,9 +31,9 @@ Topics are a selection of 40 press article. 20 from a major international newspa
 
 **Output format:**
  
-Results should be provided in a TREC style tabulated format:
+Results should be provided in a TREC style tabulated format (.csv extention). The following named columns are required:
 
-1. run_id: Run ID starting with teamid
+1. run_id: Run ID starting with teamid, followed by task1_ and run_name
 2. manual: Whether the run is manual {0,1}
 3. topic_id: Topic ID
 4. query_id: Query ID used to retrieve the document (if one of the queries provided for the topic was used; 0 otherwise)
@@ -46,9 +46,9 @@ For each topic, the maximum number of distinct DBLP references (_id json field) 
 
 | run_id | manual | topic_id | query_id | doc_id | passage |
 |:-------|:-------|:---------|:-------|:--------|:-----|
-| ST1_1 | 0 | G01 | G01.1 | 1564531496 | A CDA is a mobile user device, similar to a Personal Digital Assistant (PDA). It supports the citizen when dealing with public authorities and proves his rights - if desired, even without revealing his identity. |
-| ST1_1 | 0 | G01 | G01.1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
-| ST1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
+| ST1_task1_1 | 0 | G01 | G01.1 | 1564531496 | A CDA is a mobile user device, similar to a Personal Digital Assistant (PDA). It supports the citizen when dealing with public authorities and proves his rights - if desired, even without revealing his identity. |
+| ST1_task1_1 | 0 | G01 | G01.1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
+| ST1_task1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
 
 *Output format checker*
 
