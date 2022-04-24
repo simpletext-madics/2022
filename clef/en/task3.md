@@ -40,7 +40,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 * *simplified_snt*: Text of the simplified passage 
 
 *Output example*:
-{"run_id":"BTU_task_3","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
+{"run_id":"BTU_task_3_run1","manual":1,"snt_id":"G11.1_2892036907_2","simplified_snt":"Drones are increasingly used in the civilian and commercial domain and need to be autonomous."}
 
 *Output format checker*
 
