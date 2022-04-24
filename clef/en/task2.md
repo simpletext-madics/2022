@@ -54,7 +54,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 *Output example*:
 
 ```{json}
-{"run_id":"NP_task_2",
+{"run_id":"NP_task_2_run1",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"black hole attack",
@@ -62,7 +62,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP_task_2",
+{"run_id":"NP_task_2_run1",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"grey hole attack",
@@ -70,7 +70,7 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP_task_2",
+{"run_id":"NP_task_2_run1",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"Sybil attack",
@@ -78,14 +78,14 @@ List of terms to be contextualized in a **JSON format** or a tabulated file TSV 
 "score_5":5,
 "score_3":3},
 
-{"run_id":"NP_task_2",
+{"run_id":"NP_task_2_run1",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"wormhole attack",
 "term_rank_snt":4,
 "score_5":5,"score_3":3},
 
-{"run_id":"NP_task_2",
+{"run_id":"NP_task_2_run1",
 "manual":1,
 "snt_id":"G06.2_2548923997_3",
 "term":"Denial of service attack",
