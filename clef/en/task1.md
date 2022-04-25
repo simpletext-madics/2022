@@ -31,9 +31,9 @@ Topics are a selection of 40 press article. 20 from a major international newspa
 
 **Output format:**
  
-Results should be provided in a TREC style tabulated format (.csv extention). The following named columns are required:
+Results should be provided in a TREC style tabulated format (with a ".csv" extention). The following columns are required (include these as the first line):
 
-1. run_id: Run ID starting with teamid, followed by task1_ and run_name
+1. run_id: Run ID starting with teamid, followed by "_task1_" and run_name
 2. manual: Whether the run is manual {0,1}
 3. topic_id: Topic ID
 4. query_id: Query ID used to retrieve the document (if one of the queries provided for the topic was used; 0 otherwise)
