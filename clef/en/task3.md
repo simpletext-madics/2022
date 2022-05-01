@@ -20,7 +20,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 The goal of this task is to provide a simplified version of text passages (sentences) with regard to a query. Participants will be provided with queries and abstracts of scientific papers. The abstracts can be split into sentences. The simplified passages will be evaluated manually with eventual use of aggregating metrics.
 
-**Intput format:** 
+**Input format:** 
 The train and and the test data are provided in JSON and CSV formats with the following fields:
 * *snt_id*: a unique passage (sentence) identifier
 * *source_snt*: passage texte
