@@ -7,8 +7,8 @@
 
 ## Deadlines
 
-* Submissions: 9 May 2022 (AoE)  
-* Notifications: 6 June 2022  
+* Submissions: 27 May 2022 (AoE)  
+* Notifications: 13 June 2022  
 * CLEF conference: 5 - 8 September 2022  
 
 For more details, check out the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
@@ -25,8 +25,8 @@ Submissions should be written in English following the CEURART 1-column paper st
 Submissions will be reviewed by at least 2 reviewers.
 
 Links:  
-Submission site: [https://easychair.org/conferences/?conf=simpletext2022](https://easychair.org/conferences/?conf=simpletext2022)
-Submission template: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
+Submission site: [https://easychair.org/conferences/?conf=clef2022](https://easychair.org/conferences/?conf=clef2022) (track SimpleText)
+Submission template: [https://drive.google.com/drive/folders/1atq0bC9hSDMicqm79Jeu6TWOR-q_BCRQ?usp=sharing](CEUR-WS template)
 
 ## List of Topics (not exhaustive)
 * Automated or computer-assisted scientific simplification
@@ -49,13 +49,15 @@ Submission template: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-c
 
 ## Program Committee
 * Liana Ermakova, HCTI - EA 4249, Université de Bretagne Occidentale (Brest, France)
-* Eric San-Juan, Laboratoire d’Informatique d’Avignon,Institut de technologie d' Avignon (Avignon, France)
-* Josiane Mothe, INSPE, Université de Toulouse, IRIT, UMR5505 CNRS (Toulouse, France)
+* Eric San-Juan, Laboratoire d’Informatique d’Avignon, Institut de technologie d' Avignon (Avignon, France)
+* Stéphane Huet, Laboratoire d’Informatique d’Avignon, Institut de technologie d' Avignon (Avignon, France)
 * Jaap Kamps, Faculty of Humanities, University of Amsterdam (Amsterdam, Netherland)
-* Pavel Braslavski, Combinatorial Algebra Lab, Ural Federal University, (Yekaterinburg, Russia)
 * Patrice Bellot, Aix-Marseille Université - CNRS (LIS – INS2I) (Marseille, France)
-* Irina Ovchinnikova, Institute of Linguistics and Intercultural Communication, Sechenov University (Moscow, Russia)
+* Irina Ovchinnikova, ManPower Language Solution (Israel)
 * Diana Nurbakova, LIRIS, Institut National des Sciences Appliquées de Lyon, (Lyon, France)
+* Élise Mathurin, HCTI - EA 4249, Université de Bretagne Occidentale (Brest, France)
+* Radia Hannachi, HCTI - EA 4249, Université de Bretagne Sud (Lorient, France)
+* Silvia Araujo, University of Mihno (Portugal)
 
 ## Bibliography
 [1] B. Fecher and S. Friesike, ‘Open science: one term, five schools of thought’, in Opening science, Springer, Cham, 2014, pp. 17–47.  
