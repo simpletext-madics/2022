@@ -53,3 +53,6 @@ SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
 * **8:50 - 9:10** Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu "NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts" (online)
 * **9:10 - 9:30** Shih-Hung Wu, Hong-Yi Huang "CYUT Team2 SimpleText Shared Task Report in CLEF-2022" (online)
 * **9:30 - 10:20** Round table and SimpleText 2023 discussion
+    * We want to hear from *you*!
+    * What was great about 2022, and what could we improve for you?
+    * Any ideas or volunteers are welcome!
