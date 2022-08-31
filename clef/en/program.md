@@ -9,8 +9,11 @@
 
 
 [CLEF registration](https://clef2022.clef-initiative.eu/index.php?page=Pages/conferenceRegistration.html)
+
 ------------------------------------------------------------
+
 [CLEF program](https://clef2022.clef-initiative.eu/index.php?page=Pages/programme.html)
+
 ------------------------------------------------------------
 ## Tuesday 6th September 
 
