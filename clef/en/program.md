@@ -37,7 +37,7 @@ SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
 
 * **17:20 - 17:40** José Monteiro, Micaela Aguiar, Sílvia Araújo "Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus" (online)
 * **17:40 - 18:00** Antonio Menta, Ana Garcia-Serrano "Controllable Sentence Simplification Using Transfer Learning" (online)
-* **18:00 - 18:30** Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps "University of Amsterdam at the CLEF 2022 SimpleText Track" ([Paper]{http://ceur-ws.org/Vol-3180/paper-242.pdf}, [Slides]{./clef22uva-stages.pdf}).
+* **18:00 - 18:30** Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps "University of Amsterdam at the CLEF 2022 SimpleText Track" ([Paper](http://ceur-ws.org/Vol-3180/paper-242.pdf), [Slides](./clef22uva-stages.pdf))
 * **18:30 - 18:50** Adrián Rubio, Paloma Martínez "HULAT-UC3M at SimpleText@CLEF-2022: Scientific text simplification using BART"
 
 ### Social Event!
