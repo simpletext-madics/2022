@@ -56,3 +56,4 @@ SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
     * We want to hear from *you*!
     * What was great about 2022, and what could we improve for you?
     * Any ideas or volunteers are welcome!
+* Plans for 2023 [Slides](SimpleText_CLEF_2023__short_presentation.pdf).
