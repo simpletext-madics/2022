@@ -18,7 +18,7 @@
 SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
 
 ### Lab Overviews (ROOM B)
-* **10:50 - 12:30** Lab overviews: CheckThat!, eRisk, JokeR, ImageCLEF, **SimpleText** 
+* **10:50 - 12:30** Lab overviews: CheckThat!, eRisk, JokeR, ImageCLEF, **SimpleText** ([Slides](SimpleText_CLEF_2022_presentation.pdf)).
 
 ### SimpleText Session 1 (ROOM F)
 
