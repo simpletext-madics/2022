@@ -52,7 +52,7 @@ SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
 * **8:50 - 9:10** Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu "NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts" ([Paper](http://ceur-ws.org/Vol-3180/paper-244.pdf), online).
 * **9:10 - 9:30** Shih-Hung Wu, Hong-Yi Huang "CYUT Team2 SimpleText Shared Task Report in CLEF-2022" ([Paper](http://ceur-ws.org/Vol-3180/paper-246.pdf), online).
 * **9:30 - 10:20** Round table and SimpleText 2023 discussion:
-    * [LNCS Track Overview](https://doi.org/10.1007/978-3-031-13643-6_28) and overview papers of [Task 1](http://ceur-ws.org/Vol-3180/paper-235.pdf), [Task 2](http://ceur-ws.org/Vol-3180/paper-236.pdf), and [Task 3](http://ceur-ws.org/Vol-3180/paper-237.pdf). 
+    * [LNCS Track Overview](https://doi.org/10.1007/978-3-031-13643-6_28) and CEUR overview papers of [Task 1](http://ceur-ws.org/Vol-3180/paper-235.pdf), [Task 2](http://ceur-ws.org/Vol-3180/paper-236.pdf), and [Task 3](http://ceur-ws.org/Vol-3180/paper-237.pdf). 
     * We want to hear from *you*!
     * What was great about 2022, and what could we improve for you?
     * Any ideas or volunteers are welcome!
