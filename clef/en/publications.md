@@ -20,7 +20,7 @@ Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, 
 Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi, <a href="https://github.com/simpletext-madics/2022/blob/369fb5de4e25acd39ce1a59d5b3fc2ce283c8ed3/BibTeX/ermakova_overview_2022.bib">BibTeX</a> 
 
 - _Searching for explanation of difficult scientific terms_
-Majda Ennaciri
+Majda Ennaciri, <a href="https://github.com/simpletext-madics/2022/blob/db4d8f4cb8db9b30e8866618880ec920246d61b0/BibTeX/ennaciri_searching_2022.bib">BibTeX</a> 
 
 - _Assembly Models for SimpleText_, «&nbsp;Task 2: Results from Wuhan University Research Group&nbsp;»
 Huang Jianfei, Mao Jin
