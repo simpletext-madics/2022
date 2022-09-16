@@ -10,39 +10,39 @@
 
 [Overview of the CLEF 2022 SimpleText Lab: Automatic Simplification of Scientific Texts](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_28)
 
-- Overview of the CLEF 2022 SimpleText Task 1: Passage Selection for a Simplified Summary
+- _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 1: Passage Selection for a Simplified Summary&nbsp;»
 Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
 
-- Overview of the CLEF 2022 SimpleText Task 2: Complexity Spotting in Scientific Abstracts
+- _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 2: Complexity Spotting in Scientific Abstracts&nbsp;»
 Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi
 
-- Overview of the CLEF 2022 SimpleText Task 3: Query Biased Simplification of Scientific Texts
+- _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 3: Query Biased Simplification of Scientific Texts&nbsp;»
 Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi
 
-- Searching for explanation of difficult scientific terms
+- _Searching for explanation of difficult scientific terms_
 Majda Ennaciri
 
-- Assembly Models for SimpleText Task 2: Results from Wuhan University Research Group
+- _Assembly Models for SimpleText_, «&nbsp;Task 2: Results from Wuhan University Research Group&nbsp;»
 Huang Jianfei, Mao Jin
 
-- Controllable Sentence Simplification Using Transfer Learning
+- _Controllable Sentence Simplification Using Transfer Learning_
 Antonio Menta, Ana Garcia-Serrano
 
-- Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus
+- _Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus_
 José Monteiro, Micaela Aguiar, Sílvia Araújo
 
-- University of Amsterdam at the CLEF 2022 SimpleText Track
+- _University of Amsterdam at the CLEF 2022 SimpleText Track_
 Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps
 
-- HULAT-UC3M at SimpleText@CLEF-2022: Scientific text simplification using BART
+- _HULAT-UC3M at SimpleText@CLEF-2022: Scientific text simplification using BART_
 Adrián Rubio, Paloma Martínez
 
-- NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts
+- _NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts_
 Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu
 
-- Is Using an AI to Simplify a Scientific Text Really Worth It?
+- _Is Using an AI to Simplify a Scientific Text Really Worth It?_
 Léa Talec-Bernard
 
-- CYUT Team2 SimpleText Shared Task Report in CLEF-20222
+- _CYUT Team2 SimpleText Shared Task Report in CLEF-20222_
 Shih-Hung Wu, Hong-Yi Huang
 
