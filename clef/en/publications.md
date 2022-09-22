@@ -20,28 +20,28 @@ Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, 
 Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi, <a href="https://github.com/simpletext-madics/2022/blob/369fb5de4e25acd39ce1a59d5b3fc2ce283c8ed3/BibTeX/ermakova_overview_2022.bib">BibTeX</a> 
 
 - _Searching for explanation of difficult scientific terms_  
-Majda Ennaciri, <a href="../..BibTeX/ennaciri_searching_2022.bib">BibTeX</a> 
+Majda Ennaciri, <a href="../../BibTeX/ennaciri_searching_2022.bib">BibTeX</a> 
 
 - _Assembly Models for SimpleText_, «&nbsp;Task 2: Results from Wuhan University Research Group&nbsp;»  
-Huang Jianfei, Mao Jin, <a href="../..BibTeX/jianfei_assembly_2022.bib">BibTeX</a>
+Huang Jianfei, Mao Jin, <a href="../../BibTeX/jianfei_assembly_2022.bib">BibTeX</a>
 
 - _Controllable Sentence Simplification Using Transfer Learning_  
-Antonio Menta, Ana Garcia-Serrano, <a href="../..BibTeX/menta_controllable_2022.bib">BibTeX</a>
+Antonio Menta, Ana Garcia-Serrano, <a href="../../BibTeX/menta_controllable_2022.bib">BibTeX</a>
 
 - _Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus_  
-José Monteiro, Micaela Aguiar, Sílvia Araújo, <a href="../..BibTeX/monteiro_using_2022.bib">BibTeX</a>
+José Monteiro, Micaela Aguiar, Sílvia Araújo, <a href="../../BibTeX/monteiro_using_2022.bib">BibTeX</a>
 
 - _University of Amsterdam at the CLEF 2022 SimpleText Track_  
-Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps, <a href="../..BibTeX/mostert_university_2022.bib">BibTeX</a>
+Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps, <a href="../../BibTeX/mostert_university_2022.bib">BibTeX</a>
 
 - _HULAT-UC3M at SimpleText@CLEF-2022: Scientific text simplification using BART_  
-Adrián Rubio, Paloma Martínez, <a href="../..BibTeX/rubio_hulat-uc3m_2022.bib">BibTeX</a>
+Adrián Rubio, Paloma Martínez, <a href="../../BibTeX/rubio_hulat-uc3m_2022.bib">BibTeX</a>
 
 - _NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts_  
-Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu, <a href="../..BibTeX/saha-nlp-iiserbsimpletext2022_2022.bib">BibTeX</a>
+Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu, <a href="../../BibTeX/saha-nlp-iiserbsimpletext2022_2022.bib">BibTeX</a>
 
 - _Is Using an AI to Simplify a Scientific Text Really Worth It?_  
-Léa Talec-Bernard <a href="../..BibTeX/talec-bernard_is_2022.bib">BibTeX</a>
+Léa Talec-Bernard <a href="../../BibTeX/talec-bernard_is_2022.bib">BibTeX</a>
 
 - _CYUT Team2 SimpleText Shared Task Report in CLEF-20222_  
-Shih-Hung Wu, Hong-Yi Huang, <a href="../..BibTeX/wu_cyut_2022.bib">BibTeX</a>
+Shih-Hung Wu, Hong-Yi Huang, <a href="../../BibTeX/wu_cyut_2022.bib">BibTeX</a>
