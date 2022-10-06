@@ -14,10 +14,10 @@
 Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova [URL](http://ceur-ws.org/Vol-3180/paper-235.pdf)
 
 - _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 2: Complexity Spotting in Scientific Abstracts&nbsp;»  
-Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi (http://ceur-ws.org/Vol-3180/paper-236.pdf)
+Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi [URL](http://ceur-ws.org/Vol-3180/paper-236.pdf)
 
 - _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 3: Query Biased Simplification of Scientific Texts&nbsp;»  
-Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi (http://ceur-ws.org/Vol-3180/paper-237.pdf)
+Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi [URL](http://ceur-ws.org/Vol-3180/paper-237.pdf)
 
 - _Searching for explanation of difficult scientific terms_  
 Majda Ennaciri, <a href="../../BibTeX/ennaciri_searching_2022.bib">BibTeX</a> 
