@@ -11,7 +11,7 @@
 - [_Overview of the CLEF 2022 SimpleText Lab: Automatic Simplification of Scientific Texts_](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_28), Liana Ermakova, Patrice Bellot, Jaap Kamps, Diana Nurbakova, Irina Ovchinnikova, Eric SanJuan, Elise Mathurin, Radia Hannachi, Stéphane Huet, Silvia Araujo [BibTeX](../../BibTeX/ermakova_overview_2022.bib)
 
 - _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 1: Passage Selection for a Simplified Summary&nbsp;»  
-Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova (http://ceur-ws.org/Vol-3180/paper-235.pdf)
+Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova [URL](http://ceur-ws.org/Vol-3180/paper-235.pdf)
 
 - _Overview of the CLEF 2022 SimpleText_, «&nbsp;Task 2: Complexity Spotting in Scientific Abstracts&nbsp;»  
 Liana Ermakova, Irina Ovchinnikov, Jaap Kamps, Diana Nurbakova, Silvia Araújo, Radia Hannachi (http://ceur-ws.org/Vol-3180/paper-236.pdf)
