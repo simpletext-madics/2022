@@ -91,16 +91,13 @@ English queries: For this edition queries are a selection of recent press titles
 <br/>•	DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract)
 
 ## How to Cite
-If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_46) where it was introduced:
+If you extend or use this work, please cite the [paper](https://doi.org/10.1007/978-3-031-13643-6_28) where it was introduced:
 ```
-Ermakova, L., Bellot, P., Kamps, J., Nurbakova, D., Ovchinnikova, I., SanJuan, E., Mathurin, E., Araújo, S., Hannachi, R., Huet, S., 
-& Poinsu, N. (2022). Automatic Simplification of Scientific Texts: SimpleText Lab at CLEF-2022. In M. Hagen, S. Verberne, C. Macdonald, 
-C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), Advances in Information Retrieval (Vol. 13186, pp. 364–373). Springer International Publishing. 
-https://doi.org/10.1007/978-3-030-99739-7_46
+Liana Ermakova, Eric SanJuan, Jaap Kamps, Stéphane Huet, Irina Ovchinnikova, Diana Nurbakova, Sílvia Araújo, Radia Hannachi, Elise Mathurin, and Patrice Bellot. 2022. Overview of the CLEF 2022 SimpleText Lab: Automatic Simplification of Scientific Texts. In Experimental IR Meets Multilinguality, Multimodality, and Interaction: 13th International Conference of the CLEF Association, CLEF 2022, Bologna, Italy, September 5–8, 2022, Proceedings. Springer-Verlag, Berlin, Heidelberg, 470–494. https://doi.org/10.1007/978-3-031-13643-6_28
 ```
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_46)
+[Paper](https://doi.org/10.1007/978-3-031-13643-6_28)
 
-[Dowload .BIB](../bib/simpletext_ecir_2022.bib)
+[Dowload .BIB](../../BibTeX/ermakova_overview_2022.bib)
 
 ---
 
