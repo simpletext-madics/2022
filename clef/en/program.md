@@ -23,7 +23,7 @@ SimpleText Sessions takes place in **ROOM F** except for the lab overviews.
 ### SimpleText Session 1 (ROOM F)
 
 * **15:30 - 15:40** Welcome talk 
-* **15:40 - 16:40** Invited talk by **Hosein Azarbonyad** (Elsevier) "Answers instead of articles: Helping users search and understand scientific content": 
+* **15:40 - 16:40** Invited talk by **Hosein Azarbonyad** (Elsevier) "Answers instead of articles: Helping users search and understand scientific content" ([Slides](../slides/Elsevier_Hosein.pdf)): 
 
 > Abstract: Searching scientific literature and understanding technical scientific documents can be very difficult for users as there are a vast number of scientific publications on almost any topic and the language of science, by its very nature, can be complex.  Scientific content providers and publishers should have mechanisms to help users with both searching the content in an effective way and understanding the complex nature of scientific concepts. In this talk, I will describe the technical details of some of our solutions in Elsevier for managing, summarizing, and simplifying scientific publications that can support users in finding information in an efficient and effective way and exploring the space of scientific literature. I will further discuss the challenges we face when building such solutions and future directions to advance the existing solutions.
 
